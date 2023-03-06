@@ -1,0 +1,39 @@
+.head{
+    height: 200px;
+}
+#Languages{
+    margin: 20px 15px 5px 15px;
+    clear: both;
+    width: 80%;
+    margin: 0 auto;
+}
+#Languages a{
+    color: black;
+    padding: 2px;
+    font-size: 12px;
+    line-height: 10px;
+}
+#Languages a:hover{
+    color: red;
+}
+.Lorem-head-text{
+    width: 60%;
+    margin: 0 auto;
+}
+.Lorem-head{
+    margin: 0 auto;
+    text-align: center;
+}
+.Lorem-ipsum h1{
+    font-size:50px;
+}
+.Lorem-body{
+    width: 80%;
+    margin: 0 auto;
+}
+/* .Lorem-body-text-container{
+    display: flex;
+}
+.Lorem-body-text{
+    width: 40%;
+} */
